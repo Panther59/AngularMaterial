@@ -1,12 +1,4 @@
-﻿import {
-  animate,
-  query,
-  style,
-  transition,
-  trigger,
-  stagger,
-  sequence
-} from '@angular/animations';
+﻿import { animate, query, sequence, stagger, style, transition, trigger } from '@angular/animations';
 
 export const ANIMATE_ON_ROUTE_ENTER = 'route-enter-staggered';
 
